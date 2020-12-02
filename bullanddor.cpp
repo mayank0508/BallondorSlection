@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
+
 class BullandDor {
+ 
  public:
     string Name;
     int Goals;
@@ -14,7 +16,7 @@ class BullandDor {
           Trophies = aTrophies;
           }
 
-          bool hasBullandDor (){
+    bool hasBullandDor (){
           if (Goals > 30  && Trophies > 4) {
             return true;
           }
