@@ -32,7 +32,7 @@ int main()
     BullandDor Num4("benzema", 30, 10, 2);
     BullandDor Num5("rashford", 22, 15, 0);
 
-    cout << Num4.hasBullandDor();
+    cout << Num2.hasBullandDor();
 
     return 0;
 }
