@@ -23,6 +23,7 @@ class BullandDor {
           }
 };
 
+
 int main()
 {
     BullandDor Num1("messi", 22, 25, 0);
