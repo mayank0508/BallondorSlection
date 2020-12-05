@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 class BullandDor {
  
  public:
@@ -23,8 +22,6 @@ class BullandDor {
             return false;
           }
 };
-
-
 
 int main()
 {
